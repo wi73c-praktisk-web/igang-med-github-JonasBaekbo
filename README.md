@@ -1,6 +1,6 @@
 # Sådan laver du et repository på http://Github.com
 
-
+Her er en lille guide til hvordan du laver et repository på Github.com
 
 
 ## Forklaring af Console.log('');
