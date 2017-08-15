@@ -1,4 +1,7 @@
-# igang-med-github-JonasBaekbo
+# Sådan laver du et repository på http://Github.com
+
+
+
 
 ## Forklaring af Console.log('');
 
